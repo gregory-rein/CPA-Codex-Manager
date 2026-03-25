@@ -1,4 +1,4 @@
-<img width="3608" height="1778" alt="image" src="https://github.com/user-attachments/assets/4a8d3e2d-9427-4471-9aa8-51e2330c6838" /># CAP-Codex-Manager
+# CAP-Codex-Manager
 
 一款专为 OpenAI 账号池设计的高性能管理面板，集成全自动批量注册、CLIProxyAPI 平台账号池实时监控与智能维护系统。
 本项目核心基于 [cnlimiter/codex-manager](https://github.com/cnlimiter/codex-manager) 以及 [DestinyCycloid/codex-console](https://github.com/DestinyCycloid/codex-console) 开发。
